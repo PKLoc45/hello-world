@@ -1,0 +1,2 @@
+/Set "\Package.Variables[User::zPlanID].Properties[Value]";2
+/File "C:\70-463\LogShipPlan.dtsx"
